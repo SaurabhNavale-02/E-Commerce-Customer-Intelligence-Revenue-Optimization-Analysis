@@ -1,0 +1,9 @@
+* Python
+
+  * Pandas
+  * NumPy
+  * Matplotlib
+* PostgreSQL
+  * SQL
+  * Power BI
+  * Jupyter Notebook
